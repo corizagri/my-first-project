@@ -1,2 +1,4 @@
 Hello! Ini adalah file pertama saya di GitHub.
 Nama saya adalah corizagri.
+Hari ini saya belajar GitHub untuk pertama kali.
+GitHub adalah platform yang sangat berguna untuk manage kod.
