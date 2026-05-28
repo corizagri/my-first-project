@@ -1,0 +1,6 @@
+Notes
+=====
+28 Mei 2026 - Hari pertama belajar GitHub
+Sudah buat repository pertama
+Sudah edit dan push file
+Sekarang belajar buat banyak file sekaligus
