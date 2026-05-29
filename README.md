@@ -1,40 +1,20 @@
-\# My First Project
-
-
+# My First Project
 
 Welcome to my first GitHub project!
 
-
-
-\## About
-
+## About
 This is my learning repository.
 
+## Features
+- Git basics
+- GitHub workflow
+- Branching strategy
+- Pull requests
 
-
-\## Features
-
-\- Git basics
-
-\- GitHub workflow
-
-\- Branching strategy
-
-\- Pull requests
-
-
-
-\## Author
-
+## Author
 corizagri
 
-
-
-\## Status
-
+## Status
 BRANCH: main
-
 VERSION: 1.0.0
-
 Last updated: 29 May 2026 (Main Version)
-
